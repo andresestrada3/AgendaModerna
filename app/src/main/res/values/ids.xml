@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="eFecha" type="id">eFecha</item>
+    <item name="cBailar" type="id">cBailar</item>
+    <item name="cCocinar" type="id">cCocinar</item>
+    <item name="cLeer" type="id">cLeer</item>
+    <item name="bGuardar" type="id">bGuardar</item>
+    <item name="editText2" type="id">editText2</item>
+    <item name="editText3" type="id">editText3</item>
+    <item name="editText4" type="id">editText4</item>
+    <item name="editText5" type="id">editText5</item>
+    <item name="cFutbol" type="id">cFutbol</item>
+    <item name="tlugar" type="id">tlugar</item>
+    <item name="sp1" type="id">sp1</item>
+    <item name="tInformacion" type="id">tInformacion</item>
+    <item name="rMasculino" type="id">rMasculino</item>
+</resources>

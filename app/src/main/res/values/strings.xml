@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AgendaModerna</string>
+    <string name="bGuardar">Guardar</string>
+    <string name="tInformacion" />
+    <string name="tHobies">Hobbies</string>
+    <string name="cocinar">Cocinar</string>
+    <string name="bailar">Bailar</string>
+    <string name="leer">Leer</string>
+    <string name="futbol">Futbol</string>
+    <string name="eDate">Date</string>
+    <string name="nacimiento">Place of Birth</string>
+    <string name="rmasculino">M</string>
+    <string name="rfemenino">F</string>
+    <string name="tsexo">Gender</string>
+    <string name="eCorreo">Email</string>
+    <string name="correo">Email</string>
+    <string name="rPassW">Repeat Pass</string>
+    <string name="rPass">Repeat Pass</string>
+    <string name="pass1">PassWord</string>
+    <string name="pass">PassWord</string>
+    <string name="name1">Name</string>
+    <string name="name">Name</string>
+    <string name="bEliminar">Eliminar</string>
+    <string name="bBuscar">Buscar</string>
+    <string name="bVer">Ver</string>
+    <string name="eBusBo">Name</string>
+</resources>
